@@ -1,0 +1,16 @@
+{
+  "name": "test app",
+  "version": "0.0.1",
+  "description": "test app",
+  "devDependencies": {
+    "@babel/preset-react": "7.17.x",
+    "react": "18.1.x",
+    "react-dom": "18.1.x",
+    "rollup": "2.75.x",
+    "@rollup/plugin-babel": "5.3.x",
+    "@rollup/plugin-commonjs": "22.0.x",
+    "@rollup/plugin-node-resolve": "13.3.x",
+    "@rollup/plugin-replace": "4.0.x",
+    "node-sass": "7.0.x"
+  }
+}
